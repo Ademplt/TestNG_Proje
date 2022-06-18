@@ -31,7 +31,7 @@ public class react_Shopping {
             System.out.print("sitede 16 urun var ,"+count+".urun");
             count++;
         }
-        System.out.println(urunListesi);
+        System.out.println(".... "+urunListesi);
 
 
     }
